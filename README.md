@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👀 I love problem solving and taking up new challenges
 - 🌱 I’m currently working on upgrading my skills in backend and Full stack involving microservices and web frameworks
-- 🔭 I'm looking to contribute in industry as Software Engineer/Developer or Cloud Software Engineer
+- 🔭 I'm looking to contribute in industry as Software Engineer/Developer or Data Engineer or Cloud Software Engineer
 - 👯 I’m looking to collaborate on projects solving complex real world scenarios
 - 📫 You can reach me via mail or Linkedin: https://www.linkedin.com/in/meghamala-nanditale
 - ⚡ Fun fact: I love travelling and hiking
